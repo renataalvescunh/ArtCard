@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&family=Maven+Pro:wght@400;500;600&family=Nunito+Sans:wght@200;400&family=Ysabeau+SC:wght@300;400;600&display=swap');
+
+
+body {
+    background-color: rgb(245, 245, 245);
+}
+
+
+
+.header {
+    text-align: center;
+    padding: 23px;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.header h1 {
+    font-weight: 600;
+    font-size: 2.4rem;
+    font-family: 'Ysabeau SC', sans-serif;  
+    color: black;
+}
+
+.header h1:hover {
+    color: rgb(99, 99, 99);
+}
+
+.content-cards {
+    padding: 50px;
+    margin-bottom: 1%;
+}
+
+.flex-galery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.img-card {
+    width: 16em;
+    
+}
+
+.img-card:hover {
+        filter: drop-shadow(3px 4px 3px rgba(0,0,0,.3));
+    } 
+
+footer {
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+footer p, a {
+    color: #00000080;
+}
+
+footer a:hover{
+    color: rgb(255, 0, 179);
+}

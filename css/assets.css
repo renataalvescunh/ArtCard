@@ -1,0 +1,125 @@
+.main-recurso-card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1px;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding-bottom: 40px;
+    background-color: #d5f3f3bd;
+}
+
+.recurso-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 3%;
+    padding: 20px;
+    width: 230px;
+    background-color: #bfe9e9;
+    border-radius: 20px;
+}
+
+.recurso-card:hover {
+        background-color: #9fe0e0;
+
+}
+
+.recurso-card img {
+    width: 5em;
+    height: 5em;
+    border-radius: 100px;
+    padding: 6px;
+}
+
+.recurso-card button {
+    cursor: pointer;
+    margin-top: 12px;
+    min-width: 120px;
+    height: 33px;
+    border: none;
+    border-radius: 100px;
+    background-color: #77d1d1;
+}
+
+button:hover {
+    background-color: #41c5c5;
+}
+
+.button {
+    cursor: pointer;
+    width: 77px;
+    height: 77px;
+    border: none;
+    border-radius: 100px;
+    background-color: #a7dfdf;
+
+}
+.links-card {
+    position: absolute;
+    top: 122px;
+    left: 32px;
+    gap: 11px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#back {
+    background-color: #e28e8e;
+}
+
+#back:hover {
+    background-color: #f89494;
+}
+
+#paletas:hover  {
+    background-color: rgb(233, 133, 251);
+}
+
+#textures:hover  {
+    background-color: rgba(220, 152, 116, 0.682);
+}
+#animation:hover  {
+    background-color: rgba(114, 132, 250, 0.682);
+}
+
+#patterns:hover {
+    background-color: rgba(250, 227, 114, 0.682);
+}
+#softwares:hover  {
+    background-color: rgba(235, 95, 95, 0.719);
+}
+#animation:hover  {
+    background-color: rgba(114, 132, 250, 0.682);
+}
+#references:hover  {
+    background-color: rgba(159, 250, 114, 0.682);
+}
+#social:hover  {
+    background-color: rgba(243, 72, 249, 0.946);
+}
+#brushes:hover {
+    background-color: rgba(249, 147, 193, 0.946); }
+
+
+    @media only screen and (max-width: 800px) {
+
+    .links-card {
+        position: absolute;
+        top: 200px;
+        left: 10px;
+        gap: 11px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .button {
+        width: 55px;
+        height: 55px;
+        font-size: 12px;
+    }
+}
+
+
