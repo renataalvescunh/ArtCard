@@ -13,14 +13,14 @@
 <!-- Pequena descrição do projeto. -->
 <p align="center"> Cards com sites e softwares úteis para ilustradores. </p>
 <p align="center">  
- <a href="https://renataalvescun.github.io/art-cards/index.html"> ⭐ Clique aqui para acessar o site ⭐</a> 
+ <a href="https://renataalvescunh.github.io/art-cards/index.html"> ⭐ Clique aqui para acessar o site ⭐</a> 
 </p>
 <!-- Description 2 -->
 <!-- Descreva seu projeto. -->
 <h2 id="about">
 💻 Sobre o projeto
 </h2>
-O site possui atualmente 7 cards organizados em categorias diferentes: brushes, softwares, referências/pose, texture, pattern e animação. Cada um com os sites e links para auxiliar ilustradores e quem se interessar.
+O site possui atualmente 8 cards organizados em categorias diferentes: brushes, softwares, referências/pose, texture, pattern, animação e assets.
 <!-- Layout -->
 
 <h2 id="layout">🎨 Layout</h2>
