@@ -13,7 +13,7 @@
 <!-- Pequena descrição do projeto. -->
 <p align="center"> Cards com sites e softwares úteis para ilustradores. </p>
 <p align="center">  
- <a href="https://renataalvescunh.github.io/art-cards/index.html"> ⭐ Clique aqui para acessar o site ⭐</a> 
+ <a href="https://renataalvescunh.github.io/ArtCard/> ⭐ Clique aqui para acessar o site ⭐</a> 
 </p>
 <!-- Description 2 -->
 <!-- Descreva seu projeto. -->
