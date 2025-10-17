@@ -47,10 +47,9 @@ Você pode visualizar o protótipo interativo do Art Card no Figma:
  ## 🚀 Detalhes Técnicos
 
 - Projeto desenvolvido como um MVP (Produto Mínimo Viável);
-
 - Foco em performance: carregamento médio de ~1.2 segundos;
-
-- Estrutura leve e sem dependências externas pesadas.
+- Estrutura leve e sem dependências externas pesadas;
+- Catálogo de 48 recursos previamente validados, garantindo a qualidade da informação.
 
  ## 🛠 Tecnologias Utilizadas
 
@@ -79,3 +78,4 @@ Contribuições são muito bem-vindas! Siga os passos abaixo para colaborar com 
  ##  📬 Contato
 
 Caso tenha sugestões, ideias ou queira conversar sobre o projeto, fique à vontade para abrir uma issue ou entrar em contato via GitHub.
+
