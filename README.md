@@ -1,80 +1,81 @@
-<!-- Logo ou Banner -->
-<h1 align="center" id="project_name">
-  <br />
-  <img src="https://github.com/renataalvescun/art-cards/assets/100436812/034c2490-a9e7-4f4d-ab93-2acac21b6c1a" alt="Logo" width="98px">
-  <br />
-  <strong>Art Card</strong>
-  <br />
-</h1>
+ <h1 align="center" id="project_name"> <br /> <img src="https://github.com/renataalvescun/art-cards/assets/100436812/034c2490-a9e7-4f4d-ab93-2acac21b6c1a" alt="Logo" width="98px"> <br /> <strong>Art Card</strong> <br /> </h1> <p align="center">🎨 Uma coleção de cards com ferramentas úteis e inspiradoras para ilustradores digitais.</p>
 
-<!-- Descrição -->
-<p align="center">🎨 Uma coleção de cards com sites e ferramentas úteis para ilustradores digitais.</p>
+ ## 💻 Sobre o Projeto
 
-<p align="center">
-  <a href="https://renataalvescunh.github.io/ArtCard"><strong>⭐ Clique aqui para acessar o site ⭐</strong></a>
-</p>
+O Art Card é uma página estática que funciona como um painel visual de recursos para ilustradores digitais. Com uma interface intuitiva e responsiva, o site oferece acesso rápido a links selecionados, organizados por categorias relevantes para o processo criativo.
 
----
+Atualmente, o projeto apresenta 8 cards temáticos, cada um com um conjunto de ferramentas ou referências que podem auxiliar em diversas etapas da ilustração digital.
 
-## 💻 Sobre o Projeto
+ ## 📁 Categorias Disponíveis
 
-O **Art Card** é uma página estática desenvolvida para ilustradores que desejam ter acesso rápido a recursos úteis e organizados por categorias. Atualmente, o site reúne **8 cards** com links para ferramentas confiáveis e inspiradoras.
+Brushes
 
-### 📂 Categorias dos Cards
+Softwares
 
-- Brushes  
-- Softwares  
-- Referência / Pose  
-- Textura  
-- Pattern  
-- Animação  
-- Assets  
+Referência / Pose
 
----
+Textura
 
-## 🛠 Tecnologias Utilizadas
+Pattern
 
-- HTML5  
-- CSS3  
-- Git & GitHub  
-- Figma (para o protótipo de UI)  
+Animação
 
----
+Assets
 
-## 🚀 Escopo e Performance
+ ## 🎨 Layout e Design
 
-- Projeto desenvolvido como um **MVP (Produto Mínimo Viável)** com foco em acessibilidade e simplicidade.
-- **8 recursos** organizados em cards temáticos.
-- Carregamento rápido: **~1.2 segundos** (baseado em testes de navegador).
-- Layout **responsivo (Mobile-First)** adaptado para **3 tamanhos principais de tela**:
-  - Celulares
-  - Tablets
-  - Desktops
+O layout foi pensado com foco em simplicidade, legibilidade e acessibilidade, priorizando uma experiência fluida em diferentes dispositivos.
 
----
+Interface limpa e organizada em cards
 
-## 🎨 Layout
+Design responsivo com abordagem Mobile-First
 
-<p align="center">
-  <img src="https://github.com/renataalvescun/art-cards/assets/100436812/06f4b6ff-0d1e-4f29-bae4-51b3db317175" width="777px" alt="Tela principal">
-</p>
+Adaptado para três principais resoluções:
 
-<p align="center">
-  <img src="https://github.com/renataalvescun/art-cards/assets/100436812/8eae7b92-4615-4747-8bbd-1ce8105afbc9" width="410px" alt="Tela mobile 1">
-  <img src="https://github.com/renataalvescun/art-cards/assets/100436812/5163dd85-3b85-48c9-ba6c-972d5d8a78fb" width="410px" alt="Tela mobile 2">
-</p>
+- Mobile (até 600px);
 
----
+- Tablet (até 1024px);
 
-## 🔧 Como Contribuir
+- Desktop.
 
-Quer ajudar a melhorar o projeto? Sinta-se à vontade para contribuir!
+## 🎨 Protótipo no Figma
+
+Você pode visualizar o protótipo interativo do Art Card no Figma:
+
+👉 [Acessar protótipo no Figma](https://www.figma.com/proto/FXjEbO8c9O9pujwHxsISFV/ArtCard---MVP?node-id=0-1&t=Khyuh3KJrK0kpD5f-1)
+
+ ## 🚀 Detalhes Técnicos
+
+- Projeto desenvolvido como um MVP (Produto Mínimo Viável);
+
+- Foco em performance: carregamento médio de ~1.2 segundos;
+
+- Estrutura leve e sem dependências externas pesadas.
+
+ ## 🛠 Tecnologias Utilizadas
+
+- HTML5;
+
+- CSS3;
+
+- Git & GitHub;
+
+- Figma (para prototipagem e design).
+
+ ## 🤝 Como Contribuir
+
+Contribuições são muito bem-vindas! Siga os passos abaixo para colaborar com o projeto:
 
 1. Faça um fork deste repositório
-2. Crie uma branch: `git checkout -b minha-feature`
-3. Faça suas alterações e commits: `git commit -m 'Minha contribuição'`
-4. Envie para sua branch: `git push origin minha-feature`
-5. Abra um **Pull Request**
 
----
+2. Crie uma branch: ```git checkout -b minha-feature```
 
+3. Realize suas alterações e commits: ```git commit -m 'Minha contribuição'```
+
+4. Envie sua branch: ```git push origin minha-feature```
+
+5. Abra um Pull Request
+
+ ##  📬 Contato
+
+Caso tenha sugestões, ideias ou queira conversar sobre o projeto, fique à vontade para abrir uma issue ou entrar em contato via GitHub.
