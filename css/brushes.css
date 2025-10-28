@@ -1,3 +1,8 @@
+
+body {
+    background-color: #fad9e4;
+}
+
 .main-recurso-card {
     display: flex;
     flex-wrap: wrap;

@@ -5,7 +5,11 @@
     justify-content: center;
     margin-bottom: 20px;
     padding-bottom: 40px;
-    background-color: #8ef185;
+    background-color: #d1f8cd;
+}
+
+body {
+    background-color: #d1f8cd;
 }
 
 .recurso-card {
@@ -17,12 +21,12 @@
     margin-left: 3%;
     padding: 20px;
     width: 230px;
-    background-color: rgba(245, 232, 212, 0.404);
+    background-color: #7da8602c;
     border-radius: 20px;
 }
 
 .recurso-card:hover {
-        background-color: #7da8602c;
+        background-color: #5fcf69b7;
 
 }
 
@@ -44,7 +48,7 @@
 }
 
 button:hover {
-    background-color: #5fcf69b7;
+    background-color: #40a849c2;
 }
 
 .button {

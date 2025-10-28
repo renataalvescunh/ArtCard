@@ -6,6 +6,11 @@
     margin-bottom: 20px;
     padding-bottom: 40px;
     background-color: #dfb9b3;
+        margin-bottom: 80px;
+}
+
+body {
+    background-color: #dfb9b3;
 }
 
 .recurso-card {

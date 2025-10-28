@@ -1,9 +1,13 @@
+body {
+    background-color: #cdcdec;
+}
+
 .main-recurso-card {
     display: flex;
     flex-wrap: wrap;
     gap: 1px;
     justify-content: center;
-    margin-bottom: 20px;
+    margin-bottom: 400px;
     padding-bottom: 40px;
     background-color: #cdcdec;
 }
