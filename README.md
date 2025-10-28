@@ -8,19 +8,14 @@ Atualmente, o projeto apresenta 8 cards temáticos, cada um com um conjunto de f
 
  ## 📁 Categorias Disponíveis
 
-Brushes
-
-Softwares
-
-Referência / Pose
-
-Textura
-
-Pattern
-
-Animação
-
-Assets
+- Brushes
+- Softwares
+- Referência / Pose
+- Textura
+- Pattern
+- Animação
+- Assets
+- Experimente
 
  ## 🎨 Layout e Design
 
