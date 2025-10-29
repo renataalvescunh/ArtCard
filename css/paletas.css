@@ -26,7 +26,7 @@ body {
 }
 
 .recurso-card:hover {
-        background-color: #c8a0e262;
+    background-color: rgb(244, 201, 255);
 
 }
 
@@ -48,7 +48,7 @@ body {
 }
 
 button:hover {
-    background-color: #e8cffc;
+    background-color: #c6a3ff;
 }
 
 .button {

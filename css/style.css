@@ -33,25 +33,30 @@ body {
     flex-wrap: wrap;
     gap: 20px;
     justify-content: center;
+    margin-bottom: 20px;
     
 }
 
 .recurso-card {
     transition: transform 0.3s, box-shadow 0.3s;
+    margin-bottom: 10px;
  }
+ 
 .recurso-card:hover {
-        transform: translateY(-4px);
-            box-shadow: 0 10px 30px rgba(14, 14, 14, 0.123);
+    transform: translateY(-4px);
+    box-shadow: 0 10px 30px rgba(14, 14, 14, 0.123);
 }
 
 
 .img-card {
     width: 16em;
-    
+    transition: transform 0.3s, box-shadow 0.3s;
+    border-radius: 10px;    
 }
 
 .img-card:hover {
         filter: drop-shadow(3px 4px 3px rgba(0,0,0,.3));
+        transform: translateY(-10px);
     } 
 
     p, h1, h2, h3, h4, h5, h6 {
